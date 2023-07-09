@@ -1,3 +1,13 @@
+---
+title: 'Blog Post number 1'
+date: 2023-07-08
+permalink: /posts/2023/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # Decoding Data Science: A Salary Analysis for 2023
 
 In this project, we aim to analyze the salaries of data science professionals in the year 2023. 
