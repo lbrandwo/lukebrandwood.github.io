@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. Biological Sciences with Neurobiology, University of Cologne, 2023
+  * Focus on Neurobiology and Computational Neuroscience
+* MSci. Biomedicine, Lancaster University 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2022-03/2023: Research Assistant/Masters Thesis
+  * Max Planck Institute for Metabolism Research 
+  * Duties included: Data Analysis of Human Data - Git, Python, R, Matlab
+  * Supervisor: Professor Dr Marc Tittgemeyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Research Assistant
+  * University of Cologne
+  * Duties included: Drosophila melanogaster maintenance, testing a novel behavioural recording technique, immunology experiments, fluorescence imaging
+  * Supervisor: Dr Thomas Riemensperger
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Neurobiology
+* Programming
+  * Python
+  * R
+  * Matlab
+* Communication
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CGA Scholarship for Outstanding Achievement
   
-Talks
+Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Using coding to automate the boring stuff!
+* Climbing
+
